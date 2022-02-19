@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassianocavalcanti//)](https://www.linkedin.com/in/cassianocavalcanti/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cassiano.cavalcanti@gmail.com)](mailto:cassiano.cavalcanti@gmail.com)
 
-#### 🎲 Program Languages
+#### 🛠  Program Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 
