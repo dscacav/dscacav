@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dscacav
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science (R and Python)
+- 🌱 I’m Data Scientist (R and Python)
 - 💞️ I’m looking to collaborate on codes
 - 📫 How to reach me @cassianoaugusto on Twitter
 
