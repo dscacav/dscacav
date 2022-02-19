@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @dscacav
+#### Hi, I’m Cassiano. 👋
+
+
+#### ⚡️ A few quick facts
 - 👀 I’m interested in Data Science
 - 🌱 I’m Data Scientist
 - 💞️ I’m looking to collaborate on codes
@@ -14,7 +17,11 @@
 
 
 <!---
-Quando eu for adicionar um repositório meu principal
+ESCREVER AABIXO DO NOME, EXEMPLO ABAIXO
+I'm currently a software engineer at Snapchat and formerly at AWS based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.
+
+
+QUANDO EU TIVER UM PORTFOLIO OFICIAL
 <b> ⚡ Main Portfolio</b>:
 
 <a href="https://github.com/karinnecristina/Data_Science">
