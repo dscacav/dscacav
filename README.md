@@ -5,6 +5,7 @@
 - 📫 How to reach me @cassianoaugusto on Twitter
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassianocavalcanti//)](https://www.linkedin.com/in/cassianocavalcanti/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=cassiano.cavalcanti@gmail.com)](cassiano.cavalcanti@gmail.com)
 
 <!---
 dscacav/dscacav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
