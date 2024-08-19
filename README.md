@@ -1,6 +1,6 @@
 #### Hi, I’m Cassiano. 👋<br>I am data enthusiastic from São Paulo, Brazil.</br>
 I currently work as Director of Pre-Sales for LATAM at BioCatch - a leader in the use of behavioral data for fraud prevention.
-In 2021, I finished my postgraduate degree in data science and in my free time I have dedicated myself to the study of statistics, EDA, Machine Learning and Deep Learning.
+In 2021, I finished my postgraduate degree in data science and in my free time I have dedicated myself to the study of statistics, EDA, Machine Learning, Deep Learning and LLMs.
 
 #### ⚡️ A few quick facts
 - 👀 I’m interested in Data Science
